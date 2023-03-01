@@ -8,11 +8,11 @@
 #include <iostream>
 
 using namespace std;
-const int COL_SIZE;
-void getData(int data[], );
+const int COL_SIZE = 4;
+void getData(int data[]);
 
 int main() {
-    const int ROW_SIZE;
+    const int ROW_SIZE = 4;
     
 
     return 0;
